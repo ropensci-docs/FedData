@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "64e4adc827dd0d0e5ae8a6dc7902dc39c2beae1c",
+    "author": "Kyle Bocinsky <bocinsky@gmail.com>",
+    "time": "2021-06-30 21:24:05",
+    "files": 10,
+    "merge": false,
+    "message": "updated to Daymet 4.0\n"
+  },
+  "remote": "https://github.com/ropensci/FedData",
+  "pkg": "FedData"
+}
