@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "1959f92691b8e7814305052095b83bf456d060e4",
+    "author": "Kyle Bocinsky <bocinsky@gmail.com>",
+    "time": "2024-03-16 23:27:32",
+    "files": 1,
+    "merge": false,
+    "message": "revdepcheck\n"
+  },
+  "repo": "https://github.com/ropensci/FedData",
+  "pkg": "FedData"
+}
