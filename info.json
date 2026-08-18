@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "b0c3f42c3f6efd41c96bb395936d083dd2acd04b",
+    "author": "R. Kyle Bocinsky <bocinsky@users.noreply.github.com>",
+    "time": "2026-06-12T15:13:41Z",
+    "files": 1,
+    "merge": false,
+    "message": "Update cran-comments for the 4.4.0 submission (#144)\n\n- Local R CMD check on R 4.6.0 / aarch64-apple-darwin23: 0/0/0.\n- GitHub Actions matrix now includes R-devel on Windows and macOS,\n  replacing the manual win-builder check (section removed).\n- One reverse dependency now exists (wxgenR); checked OK against the\n  dev version (FedData appears only in a documentation comment there).\n\nCo-authored-by: Claude Fable 5 <noreply@anthropic.com>"
+  },
+  "repo": "https://github.com/ropensci/FedData",
+  "pkg": "FedData",
+  "time": "2026-08-18T15:53:07Z"
+}
